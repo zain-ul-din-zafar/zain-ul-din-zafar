@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @zainuldeen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-zainuldeen/zainuldeen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @zainuldeen
+- 👀 I’m interested in anything that involves coding
+- 🌱 I’m currently learning how to ruin things
+- 💞️ I’m looking to collaborate on open-source
+- 📫 How to reach me? you're already here!
+
+This is my second account provided by my university. check my [original account](https://github.com/Zain-ul-din)
